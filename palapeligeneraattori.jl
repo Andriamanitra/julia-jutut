@@ -1,3 +1,8 @@
+# Palapeligeneraattori lukee tekstitiedoston ja 
+# tekee siitä palapelin jonka voi koota ohjelmoinnin
+# peruskurssilla tehdyn palapeli-ohjelman avulla
+# (http://www.cs.tut.fi/~opersk/S2015/@wrapper.shtml?htyo02)
+
 type Pala
 	# 1-uloitteinen unsigned array
 	reunat::Array{UInt64, 1}
